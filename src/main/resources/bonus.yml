@@ -1,0 +1,13 @@
+bonuses:
+  Vip:
+    display: '&a[VIP]'
+    permission: 'mines.bonus.vip'
+    bonus: 5.0
+  Mvp:
+    display: '&b[MVP]'
+    permission: 'mines.bonus.mvp'
+    bonus: 10.0
+  Mine:
+    display: '&6[MINE]'
+    permission: 'mines.bonus.mine'
+    bonus: 15.0

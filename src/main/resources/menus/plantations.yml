@@ -1,0 +1,37 @@
+plantations:
+  CACTUS:
+    slot: 20
+    display: '&aCacto'
+    lore:
+      - '&7Faça a sua farm para ter lucros.'
+      - '&7Você tem um total de &f{amount} &7drop(s).'
+      - ''
+      - '&aInformações de Venda:'
+      - '  &a&l↳ &fCoin(s)&7: &2$&f{money} &7➟ &2$&f{money_with_bonus} &a[+{bonus}%]'
+      - '  &a&l↳ &fToken(s)&7: &d⚙{tokens} &7➟ &d⚙{tokens_with_bonus} &a[+{bonus}%]'
+      - ''
+      - '&aClique para vender.'
+  NETHER_STALK:
+    slot: 22
+    display: '&aFungo do Nether'
+    lore:
+      - '&7Faça a sua farm para ter lucros.'
+      - '&7Você tem um total de &f{amount} &7drop(s).'
+      - ''
+      - '&aInformações de Venda:'
+      - '  &a&l↳ &fCoin(s)&7: &2$&f{money} &7➟ &2$&f{money_with_bonus} &a[+{bonus}%]'
+      - '  &a&l↳ &fCash(s)&7: &6✪{cash} &7➟ &6✪{cash_with_bonus} &a[+{bonus}%]'
+      - ''
+      - '&aClique para vender.'
+  WHEAT:
+    slot: 24
+    display: '&aTrigo'
+    lore:
+      - '&7Faça a sua farm para ter lucros.'
+      - '&7Você tem um total de &f{amount} &7drop(s).'
+      - ''
+      - '&aInformações de Venda:'
+      - '  &a&l↳ &fCoin(s)&7: &2$&f{money} &7➟ &2$&f{money_with_bonus} &a[+{bonus}%]'
+      - '  &a&l↳ &fL. Spawner&7: &b∞{limite} &7➟ &b∞{limite_with_bonus} &a[+{bonus}%]'
+      - ''
+      - '&aClique para vender.'

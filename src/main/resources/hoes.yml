@@ -1,0 +1,19 @@
+hoes:
+  lvl1:
+    material: '293:0'
+    name: '&bEnxada de Diamante'
+    lore:
+      - '&aLiberados:'
+      - ' &a✔ &7Eficiência {efficiency}'
+      - ' &a✔ &7Fortuna {fortune}'
+      - ' &a✔ &7Durabilidade {durability}'
+      - ''
+      - '&cBloqueados:'
+      - ' &c✘ &7Laser {laser}'
+      - ' &c✘ &7Explosão {explosive}'
+    enchants:
+      laser: 0
+      fortune: 5
+      explosive: 0
+      efficiency: 5
+      durability: 5

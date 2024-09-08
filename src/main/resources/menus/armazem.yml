@@ -1,0 +1,32 @@
+armazem:
+  info:
+    slot: 4
+    useSkull: true
+    skullUrl: 'http://textures.minecraft.net/texture/b6e522d918252149e6ede2edf3fe0f2c2c58fee6ac11cb88c617207218ae4595'
+    material: '0:0'
+    display: '&aSobre você:'
+    lore:
+      - '&7Evolua a capacidade do seu armazém.'
+      - ''
+      - ' &a&l❘ &fNível do Armazém&7: {level}'
+      - ''
+      - '&aSeus booster(s):'
+      - '    &7{boosters}'
+      - ''
+      - '&awww.minebr.net'
+  upgrade:
+    slot: 40
+    useSkull: false
+    skullUrl: ''
+    material: '342:0'
+    display: '&aUpgrade. &8[{level}]'
+    lore:
+      - '&7Evolua a capacidade do seu armazém.'
+      - ''
+      - ' &a&l❘ &fCapacidade&7: &a{capacity} &7➟ &e{newcapacity}'
+      - ''
+      - '&aInformações para evoluir:'
+      - '    &a&l↳ &fMoney&7: &2$&f{costcoins}'
+      - '    &a&l↳ &fToken(s)&7: &d⚙{costtokens}'
+      - ''
+      - '&aClique para evoluir.'

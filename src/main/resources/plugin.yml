@@ -1,0 +1,12 @@
+name: minebr-armazem
+version: 1.0
+main: net.minebr.armazem.ArmazemMain
+author: MrGuriBR_
+commands:
+  armazemadmin:
+    aliases:
+      - armazemadm
+      - storeadmin
+  armazem:
+    aliases:
+      - storage

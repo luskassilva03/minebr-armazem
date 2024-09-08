@@ -1,0 +1,37 @@
+plantations:
+  #Plantação
+  CACTUS:
+    #Moedas que o player vai receber ao vender a plantação
+    prices:
+      prices1:
+        provider: 'money'
+        price: 1.5
+      prices2:
+        provider: 'tokens'
+        price: 0.2
+      prices3:
+        provider: 'cash'
+        price: 0.0
+      prices4:
+        provider: 'limite'
+        price: 0.0
+  #Plantação
+  NETHER_STALK:
+    #Moedas que o player vai receber ao vender a plantação
+    prices:
+      prices1:
+        provider: 'money'
+        price: 4.2
+      prices2:
+        provider: 'cash'
+        price: 0.1
+  #Plantação
+  WHEAT:
+    #Moedas que o player vai receber ao vender a plantação
+    prices:
+      prices1:
+        provider: 'money'
+        price: 3.5
+      prices2:
+        provider: 'limite'
+        price: 0.1

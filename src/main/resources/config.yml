@@ -1,0 +1,55 @@
+Database:
+  type: SQLITE #Tipos: MYSQL, MYSQL_FAST, SQLITE.
+  user: root
+  pass: ""
+  host: localhost:3306
+  database: test
+
+Debug:
+  enable: true #Habilitar debug no console.
+
+Upgrade:
+  perLevel: 50000.0 #quanto vai aumentar por level
+  coins:
+    price: 100.000
+    multiply: 1.0
+  tokens:
+    price: 38.500
+    multiply: 1.8
+
+# Opções válidas: 'DECIMAL' e 'LETTER'
+format-type: 'LETTER' # letter = 1K, 1M etc... (usar os formatos configurados abaixo) | decimal = 1.000,00, 1.000.000,00 etc...
+# Passivo de criação de quantos formatos quiser, basta adicionar seguindo o formato abaixo
+currency-format:
+  - ''
+  - 'k'
+  - 'M'
+  - 'B'
+  - 'T'
+  - 'Q'
+  - 'QQ'
+  - 'S'
+  - 'SS'
+  - 'OC'
+  - 'N'
+  - 'D'
+  - 'UN'
+  - 'DD'
+  - 'TR'
+  - 'QT'
+  - 'QN'
+  - 'SD'
+  - 'SPD'
+  - 'OD'
+  - 'ND'
+  - 'VG'
+  - 'UVG'
+  - 'DVG'
+  - 'TVG'
+  - 'QTV'
+  - 'QNV'
+  - 'SEV'
+  - 'SPV'
+  - 'OVG'
+  - 'NVG'
+  - 'TG'

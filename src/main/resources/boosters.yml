@@ -1,0 +1,33 @@
+boosters:
+  booster1:
+    useSkull: false
+    skullUrl: ''
+    Material: '373:0'
+    name: '&bMultiplicador de Farm'
+    lore:
+      - '&7Use os seu(s) multiplicador(es) para'
+      - '&7receber mais drop(s) das farm(s).'
+      - ''
+      - ' &8▸ &fTempo&7: {timer}'
+      - ' &8▸ &fMultiplicador&7: {multiply}x'
+      - ''
+      - '&bClique aqui para ativa-lo.'
+    booster:
+      time: 60 #em segundos
+      multiply: 2.0 #multiplicador
+  booster2:
+    useSkull: false
+    skullUrl: ''
+    Material: '373:0'
+    name: '&bMultiplicador de Farm'
+    lore:
+      - '&7Use os seu(s) multiplicador(es) para'
+      - '&7receber mais drop(s) das farm(s).'
+      - ''
+      - ' &8▸ &fTempo&7: {timer}'
+      - ' &8▸ &fMultiplicador&7: {multiply}x'
+      - ''
+      - '&bClique aqui para ativa-lo.'
+    booster:
+      time: 120 #em segundos
+      multiply: 5.0 #multiplicador
